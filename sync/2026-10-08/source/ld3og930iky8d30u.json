@@ -1,0 +1,16 @@
+{
+  "id": 276446935,
+  "slug": "ld3og930iky8d30u",
+  "title": "为什么项目用的rag是向量检索➕bm25+知识图谱，但是测评里却只测了向量和bm25和这两者混合？",
+  "book_id": 78815357,
+  "format": "lake",
+  "status": 1,
+  "word_count": 261,
+  "created_at": "2026-07-05T07:53:10.000Z",
+  "updated_at": "2026-10-07T14:59:34.000Z",
+  "published_at": "2026-07-05T08:06:34.000Z",
+  "content_updated_at": "2026-07-05T08:06:34.000Z",
+  "content": "<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"fixed\" /><meta name=\"typography\" content=\"classic\" /><meta name=\"paragraphSpacing\" content=\"relax\" /><p data-lake-id=\"u2995cb9f\" id=\"u2995cb9f\"><span data-lake-id=\"ud82eb33b\" id=\"ud82eb33b\">回答：知识图谱是后续加的，rag测评基本测的话也就是两种，一种是chunk的切分策略，一种是向量化模型的选择。而前者的测评需要大量的前置工作，所以我们选择了后者，我当时面字节的时候就被问了你为什么要选择这个向量化模型，那你口说无凭肯定要通过具体的benchmark去给出选择这个向量化模型的选择，测评的核心就是看向量检索的指标，bm25因为与向量模型无关，所以测出的召回指标应该都是一样的，但是混合效果应该是有差别，按理来说加完知识图谱应该再测一轮混合效果的，但后面没测属于是懒了，到时候可以说这个知识图谱是可选功能，核心测评逻辑还是在于向量化模型的选择。</span></p><p data-lake-id=\"u9bf5d3c1\" id=\"u9bf5d3c1\"><br></p>",
+  "empty_unpublished": false,
+  "retrieved_at": "2026-10-08T16:25:13+08:00"
+}

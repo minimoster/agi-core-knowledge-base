@@ -1,0 +1,16 @@
+{
+  "id": 286666551,
+  "slug": "yapy1eim5gwu4yut",
+  "title": "pdd ai agent 一面",
+  "book_id": 78815357,
+  "format": "lake",
+  "status": 1,
+  "word_count": 146,
+  "created_at": "2026-09-28T08:23:09.000Z",
+  "updated_at": "2026-09-28T09:39:14.000Z",
+  "published_at": "2026-09-28T08:34:00.000Z",
+  "content_updated_at": "2026-09-28T08:34:00.000Z",
+  "content": "<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"fixed\" /><meta name=\"typography\" content=\"classic\" /><meta name=\"paragraphSpacing\" content=\"relax\" /><h2 data-lake-id=\"7f567eea\" id=\"7f567eea\"><strong><span data-lake-id=\"u8cd04a8d\" id=\"u8cd04a8d\">智谱</span></strong></h2><p data-lake-id=\"u08b8c7a3\" id=\"u08b8c7a3\"><span data-lake-id=\"u2b58b875\" id=\"u2b58b875\">因为一个后端需求是生产者和消费者</span></p><p data-lake-id=\"u96562d89\" id=\"u96562d89\"><span data-lake-id=\"u9f36ed90\" id=\"u9f36ed90\">然后问了下生产者和消费者的优点和缺点</span></p><p data-lake-id=\"u9b57eb87\" id=\"u9b57eb87\"><span data-lake-id=\"u0bbec5c4\" id=\"u0bbec5c4\">我当时想的</span></p><p data-lake-id=\"u85227727\" id=\"u85227727\"><span data-lake-id=\"u748a8ad5\" id=\"u748a8ad5\">优点就是异步，削峰和解耦</span></p><p data-lake-id=\"u9d4a5651\" id=\"u9d4a5651\"><span data-lake-id=\"u9946a57f\" id=\"u9946a57f\">缺点是延迟</span></p><p data-lake-id=\"u9ca4fbad\" id=\"u9ca4fbad\"><span data-lake-id=\"u94f5eb6a\" id=\"u94f5eb6a\">java垃圾回收和golang垃圾回收</span></p><h2 data-lake-id=\"02ff317d\" id=\"02ff317d\"><span data-lake-id=\"u2f0341c4\" id=\"u2f0341c4\">百度 </span></h2><p data-lake-id=\"u5b544bb6\" id=\"u5b544bb6\"><span data-lake-id=\"u33617f0e\" id=\"u33617f0e\">记忆系统+评测</span></p><p data-lake-id=\"ub6e5e5d6\" id=\"ub6e5e5d6\"><span data-lake-id=\"ud4aac482\" id=\"ud4aac482\">沙箱（简单问了沙箱的启动和交付流程）</span></p><h2 data-lake-id=\"ae26bb04\" id=\"ae26bb04\"><span data-lake-id=\"u4f6c6087\" id=\"u4f6c6087\">小红书</span></h2><p data-lake-id=\"u3937e457\" id=\"u3937e457\"><span data-lake-id=\"u5af9110f\" id=\"u5af9110f\">负责的业务是啥？觉得最难的项目是啥，这个项目有缺点吗？</span></p><p data-lake-id=\"ud2079b1e\" id=\"ud2079b1e\"><span data-lake-id=\"uc7b1a4c3\" id=\"uc7b1a4c3\">你想从事什么方向？</span></p><p data-lake-id=\"ub2a9d8c3\" id=\"ub2a9d8c3\"><span data-lake-id=\"u12003a50\" id=\"u12003a50\">手撕：力扣224:基本计算器</span></p><h1 data-lake-id=\"d2ec86d2\" id=\"d2ec86d2\"><br></h1>",
+  "empty_unpublished": false,
+  "retrieved_at": "2026-10-08T16:25:13+08:00"
+}

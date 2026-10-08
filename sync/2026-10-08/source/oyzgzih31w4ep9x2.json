@@ -1,0 +1,16 @@
+{
+  "id": 276446939,
+  "slug": "oyzgzih31w4ep9x2",
+  "title": "长期记忆和用户偏好的内容具体区别",
+  "book_id": 78815357,
+  "format": "lake",
+  "status": 1,
+  "word_count": 187,
+  "created_at": "2026-07-05T07:53:12.000Z",
+  "updated_at": "2026-08-30T08:12:31.000Z",
+  "published_at": "2026-07-05T08:11:13.000Z",
+  "content_updated_at": "2026-07-05T08:11:13.000Z",
+  "content": "<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"fixed\" /><meta name=\"typography\" content=\"classic\" /><meta name=\"paragraphSpacing\" content=\"relax\" /><p data-lake-id=\"u16391b45\" id=\"u16391b45\"><span data-lake-id=\"u88495f66\" id=\"u88495f66\">长期记忆存的是chunk，存在向量数据库里，触发的时候用于检索召回注入，一般量是无限且巨大的。</span></p><p data-lake-id=\"u3e3eff51\" id=\"u3e3eff51\"><span data-lake-id=\"u5c913dd1\" id=\"u5c913dd1\">​</span><br></p><p data-lake-id=\"u138db89f\" id=\"u138db89f\"><span data-lake-id=\"u395e9278\" id=\"u395e9278\">而用户偏好通常是固定的kv结构，一般系统只会选择几个典型的设定结构，让系统自动提取，正常来说要提供编辑入口，用户甚至可以主动编辑该文件，组装记忆上下文的时候，不用检索召回通过topk去选择，因为本身内容量很小，一般只有四到五个，可以直接全量注入作为用户设定，便于智能助手更好的解决诉求和推导任务。</span></p>",
+  "empty_unpublished": false,
+  "retrieved_at": "2026-10-08T16:25:13+08:00"
+}

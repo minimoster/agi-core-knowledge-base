@@ -1,0 +1,16 @@
+{
+  "id": 275784238,
+  "slug": "uwghi79ul801gn2w",
+  "title": "你真的了解SKILL吗？",
+  "book_id": 78815357,
+  "format": "lake",
+  "status": 1,
+  "word_count": 73,
+  "created_at": "2026-06-30T03:30:54.000Z",
+  "updated_at": "2026-08-03T11:00:33.000Z",
+  "published_at": "2026-08-03T11:00:33.000Z",
+  "content_updated_at": "2026-08-03T11:00:33.000Z",
+  "content": "<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"fixed\" /><meta name=\"typography\" content=\"classic\" /><meta name=\"paragraphSpacing\" content=\"relax\" /><h3 data-lake-id=\"AhyJA\" id=\"AhyJA\"><span data-lake-id=\"uc705a512\" id=\"uc705a512\">相关资料</span></h3><ol list=\"uac3cea7e\"><li fid=\"u19811c49\" data-lake-id=\"ub6787c51\" id=\"ub6787c51\"><a href=\"https://agentskills.io/specification#compatibility-field\" data-lake-id=\"u6d36798f\" id=\"u6d36798f\"><span data-lake-id=\"ued1f4174\" id=\"ued1f4174\">Specification - Agent Skills</span></a><span data-lake-id=\"u316ea623\" id=\"u316ea623\"> 详细介绍了SKILL的结构以及一些最佳实践</span></li><li fid=\"u19811c49\" data-lake-id=\"udb69c75d\" id=\"udb69c75d\"><a href=\"https://agentskills.io/skill-creation/best-practices\" target=\"_blank\" data-lake-id=\"u625983c2\" id=\"u625983c2\"><span data-lake-id=\"uc09535ac\" id=\"uc09535ac\">Agentskills.io/skill</span></a><span data-lake-id=\"u22dd3497\" id=\"u22dd3497\"> Claude Code官网介绍的SKILL</span></li></ol><p data-lake-id=\"u56f0edb4\" id=\"u56f0edb4\"><span data-lake-id=\"ue0cb1ad5\" id=\"ue0cb1ad5\">​</span><br></p><h3 data-lake-id=\"MH7hi\" id=\"MH7hi\"><span data-lake-id=\"u00f8145b\" id=\"u00f8145b\">SKILL是什么？</span></h3><h3 data-lake-id=\"WjMVf\" id=\"WjMVf\"><span data-lake-id=\"ud4336dc9\" id=\"ud4336dc9\">SKILL的结构组成是什么样的？</span></h3><h3 data-lake-id=\"ZweZP\" id=\"ZweZP\"><span data-lake-id=\"ucd47db4f\" id=\"ucd47db4f\">一个好的SKILL应该具备什么？</span></h3><p data-lake-id=\"u09975225\" id=\"u09975225\"><br></p><h3 data-lake-id=\"SFW6x\" id=\"SFW6x\"><span data-lake-id=\"u7d2d1973\" id=\"u7d2d1973\">SKILL应该如何进行评测？</span></h3><p data-lake-id=\"u0af5db8f\" id=\"u0af5db8f\"><span data-lake-id=\"u8c8c2a69\" id=\"u8c8c2a69\">​</span><br></p><p data-lake-id=\"ua0f527e5\" id=\"ua0f527e5\"><br></p>",
+  "empty_unpublished": false,
+  "retrieved_at": "2026-10-08T16:25:13+08:00"
+}

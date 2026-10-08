@@ -1,0 +1,16 @@
+{
+  "id": 276129699,
+  "slug": "ibix2og4yrggp3qx",
+  "title": "minmax后端一面",
+  "book_id": 78815357,
+  "format": "lake",
+  "status": 1,
+  "word_count": 175,
+  "created_at": "2026-07-02T08:02:14.000Z",
+  "updated_at": "2026-07-04T09:36:50.000Z",
+  "published_at": "2026-07-04T09:36:50.000Z",
+  "content_updated_at": "2026-07-04T09:36:50.000Z",
+  "content": "<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"fixed\" /><meta name=\"typography\" content=\"classic\" /><meta name=\"paragraphSpacing\" content=\"relax\" /><p data-lake-id=\"ue5fe06d3\" id=\"ue5fe06d3\"><span data-lake-id=\"u93334559\" id=\"u93334559\">一：实习</span></p><p data-lake-id=\"u450b22fc\" id=\"u450b22fc\"><span data-lake-id=\"u71ef852b\" id=\"u71ef852b\">30min</span></p><p data-lake-id=\"u3e33609d\" id=\"u3e33609d\"><span data-lake-id=\"u184357df\" id=\"u184357df\">二：saber</span></p><p data-lake-id=\"ub2405c2f\" id=\"ub2405c2f\"><span data-lake-id=\"u11556e0d\" id=\"u11556e0d\">1:讲mem0和open viking（10min）</span></p><p data-lake-id=\"ud615bb81\" id=\"ud615bb81\"><span data-lake-id=\"ucc34a407\" id=\"ucc34a407\">2:你的这个项目借鉴了你说的这两个开源项目的哪些东西？</span></p><p data-lake-id=\"ucf6f864f\" id=\"ucf6f864f\"><span data-lake-id=\"u8d9d5ed6\" id=\"u8d9d5ed6\">3:你这个记忆系统的效果是怎么推出来的？</span></p><p data-lake-id=\"ucf86357f\" id=\"ucf86357f\"><span data-lake-id=\"u89dd9737\" id=\"u89dd9737\">4:如果让你去继续优化这个记忆系统你会怎么优化？</span></p><p data-lake-id=\"udce1f1c8\" id=\"udce1f1c8\"><span data-lake-id=\"uc4e379e9\" id=\"uc4e379e9\">5:你听说过阿里团队的reme吗？</span></p><p data-lake-id=\"ub2684483\" id=\"ub2684483\"><span data-lake-id=\"u6b2fac1e\" id=\"u6b2fac1e\">6:为什么reme要把长期记忆从向量数据库给迁移到md文件里？</span></p><p data-lake-id=\"ue26f3ca2\" id=\"ue26f3ca2\"><span data-lake-id=\"u611d4398\" id=\"u611d4398\">7:你讲下rrf融合算法吧？</span></p><p data-lake-id=\"u1cd19f43\" id=\"u1cd19f43\"><span data-lake-id=\"u2568cfa5\" id=\"u2568cfa5\">三：八股</span></p><p data-lake-id=\"ubd832917\" id=\"ubd832917\"><span data-lake-id=\"u43e9bd72\" id=\"u43e9bd72\">golang的context包怎么保证goroutine不泄漏的</span></p><p data-lake-id=\"u179b229c\" id=\"u179b229c\"><span data-lake-id=\"u200801ce\" id=\"u200801ce\">gmp调度模型</span></p><p data-lake-id=\"ua7f9c218\" id=\"ua7f9c218\"><span data-lake-id=\"ufd3dc2d1\" id=\"ufd3dc2d1\">sync.map的设计思想</span></p><p data-lake-id=\"u1b651005\" id=\"u1b651005\"><span data-lake-id=\"u1aff8f3f\" id=\"u1aff8f3f\">四：手撕</span></p><p data-lake-id=\"u036d8be3\" id=\"u036d8be3\"><span data-lake-id=\"u3b9f2078\" id=\"u3b9f2078\">堆排序</span></p><p data-lake-id=\"ud63c57d5\" id=\"ud63c57d5\"><span data-lake-id=\"ua7a88cd9\" id=\"ua7a88cd9\">时间复杂度</span></p><p data-lake-id=\"u153824cb\" id=\"u153824cb\"><span data-lake-id=\"uc88dfc81\" id=\"uc88dfc81\">​</span><br></p><p data-lake-id=\"u73f06781\" id=\"u73f06781\"><span data-lake-id=\"ube531de4\" id=\"ube531de4\">​</span><br></p>",
+  "empty_unpublished": false,
+  "retrieved_at": "2026-10-08T16:24:28+08:00"
+}

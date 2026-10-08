@@ -1,0 +1,1148 @@
+{
+  "time": "2026-10-08T16:24:28+08:00",
+  "source": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber",
+  "old_count": 97,
+  "live_count": 120,
+  "added": [
+    {
+      "title": "AGI- researcher",
+      "slug": "sezywfkbx8yglkq0",
+      "md_file": "docs/098-L1-AGI- researcher-sezywfkbx8yglkq0.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/sezywfkbx8yglkq0"
+    },
+    {
+      "title": "意图识别模型微调",
+      "slug": "gkzi2tgy1cdxd23n",
+      "md_file": "docs/099-L2-意图识别模型微调-gkzi2tgy1cdxd23n.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/gkzi2tgy1cdxd23n"
+    },
+    {
+      "title": "双模型意图路由：面试表达手册",
+      "slug": "pd888bx42zg32i79",
+      "md_file": "docs/100-L3-双模型意图路由：面试表达手册-pd888bx42zg32i79.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/pd888bx42zg32i79"
+    },
+    {
+      "title": "双模型意图识别真实训练记录（2026-07-22）",
+      "slug": "xo25h2xsd4ig049z",
+      "md_file": "docs/101-L3-双模型意图识别真实训练记录（2026-07-22）-xo25h2xsd4ig049z.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/xo25h2xsd4ig049z"
+    },
+    {
+      "title": "Qwen3-0.6B模型结构与 LoRA微调原理",
+      "slug": "hy6m7wvkndzpky3f",
+      "md_file": "docs/102-L3-Qwen3-0.6B模型结构与 LoRA微调原理-hy6m7wvkndzpky3f.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/hy6m7wvkndzpky3f"
+    },
+    {
+      "title": "BERT结构与原理",
+      "slug": "efelwy768x5p6tou",
+      "md_file": "docs/103-L3-BERT结构与原理-efelwy768x5p6tou.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/efelwy768x5p6tou"
+    },
+    {
+      "title": "BERT与大语言模型做分类任务的区别",
+      "slug": "bzp9l8c8v3fgraq2",
+      "md_file": "docs/104-L3-BERT与大语言模型做分类任务的区别-bzp9l8c8v3fgraq2.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/bzp9l8c8v3fgraq2"
+    },
+    {
+      "title": "ToT—思维树消融实验设计",
+      "slug": "iyc5u14b76cwzuzg",
+      "md_file": "docs/105-L2-ToT—思维树消融实验设计-iyc5u14b76cwzuzg.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/iyc5u14b76cwzuzg"
+    },
+    {
+      "title": "竞速机制真的有意义吗？",
+      "slug": "auwqnqy29bvyhg8h",
+      "md_file": "docs/106-L3-竞速机制真的有意义吗？-auwqnqy29bvyhg8h.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/auwqnqy29bvyhg8h"
+    },
+    {
+      "title": "系统提示词问题",
+      "slug": "xa35kne03cp77y6q",
+      "md_file": "docs/107-L3-系统提示词问题-xa35kne03cp77y6q.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/xa35kne03cp77y6q"
+    },
+    {
+      "title": "修改前后链路对比",
+      "slug": "thopyd698ivumi0a",
+      "md_file": "docs/108-L4-修改前后链路对比-thopyd698ivumi0a.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/thopyd698ivumi0a"
+    },
+    {
+      "title": "Retain CoT",
+      "slug": "vdpg4hv4seipd542",
+      "md_file": "docs/109-L2-Retain CoT-vdpg4hv4seipd542.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/vdpg4hv4seipd542"
+    },
+    {
+      "title": "Agent 上下文管理：五种常见错误为什么会让 KV Cache 失效",
+      "slug": "it7rg1u3fzyu0nc7",
+      "md_file": "docs/110-L2-Agent 上下文管理：五种常见错误为什么会让 KV Cache 失效-it7rg1u3fzyu0nc7.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/it7rg1u3fzyu0nc7"
+    },
+    {
+      "title": "Saga 模式与状态机的结合：本质、实践与两种形态",
+      "slug": "dgavrc04z97mmgfd",
+      "md_file": "docs/111-L1-Saga 模式与状态机的结合：本质、实践与两种形态-dgavrc04z97mmgfd.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/dgavrc04z97mmgfd"
+    },
+    {
+      "title": "Loop Engineering 日常 AI 开发实战指南",
+      "slug": "qzyg2pmu4letaym2",
+      "md_file": "docs/112-L1-Loop Engineering 日常 AI 开发实战指南-qzyg2pmu4letaym2.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/qzyg2pmu4letaym2"
+    },
+    {
+      "title": "鱼的Agent八股（二）",
+      "slug": "bbwcizgxsuioqbwd",
+      "md_file": "docs/113-L1-鱼的Agent八股（二）-bbwcizgxsuioqbwd.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/bbwcizgxsuioqbwd"
+    },
+    {
+      "title": "2027届秋招面经",
+      "slug": "vwaxy6pgxg35ipos",
+      "md_file": "docs/114-L0-2027届秋招面经-vwaxy6pgxg35ipos.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/vwaxy6pgxg35ipos"
+    },
+    {
+      "title": "字节 GMPT 秋招一面",
+      "slug": "oeh2oidlzgobggrv",
+      "md_file": "docs/115-L1-字节 GMPT 秋招一面-oeh2oidlzgobggrv.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/oeh2oidlzgobggrv"
+    },
+    {
+      "title": "字节 AI 全栈一面",
+      "slug": "rf0xwf56gaa5o7f1",
+      "md_file": "docs/116-L1-字节 AI 全栈一面-rf0xwf56gaa5o7f1.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/rf0xwf56gaa5o7f1"
+    },
+    {
+      "title": "快手 AI 全栈开发 秋招二面",
+      "slug": "qf6lhpi4cuu8c4vv",
+      "md_file": "docs/117-L1-快手 AI 全栈开发 秋招二面-qf6lhpi4cuu8c4vv.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/qf6lhpi4cuu8c4vv"
+    },
+    {
+      "title": "pdd ai agent 二面",
+      "slug": "eg9dbs7xxcn7lyhy",
+      "md_file": "docs/118-L1-pdd ai agent 二面-eg9dbs7xxcn7lyhy.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/eg9dbs7xxcn7lyhy"
+    },
+    {
+      "title": "pdd ai agent 一面",
+      "slug": "yapy1eim5gwu4yut",
+      "md_file": "docs/119-L1-pdd ai agent 一面-yapy1eim5gwu4yut.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/yapy1eim5gwu4yut"
+    },
+    {
+      "title": "算秩未来 云原生agent1面",
+      "slug": "aonro39365zmn097",
+      "md_file": "docs/120-L1-算秩未来 云原生agent1面-aonro39365zmn097.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/aonro39365zmn097"
+    }
+  ],
+  "modified": [
+    {
+      "title": "长期记忆更改涉及多库怎么保持一致性",
+      "slug": "pg97d29hcvrzbrbk",
+      "md_file": "docs/007-L3-长期记忆多库更改怎么保持一致性-pg97d29hcvrzbrbk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/pg97d29hcvrzbrbk",
+      "old_title": "长期记忆多库更改怎么保持一致性",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 0,
+      "word_count": 5621,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "1c08aaa37e16bdb5ef61194f1a07ef684edc3ccb9fda34b28ba50b4c634aef92",
+      "new_sha256": "dff82307bfdd4a4359a16dfb9d10d323f570b56a683f77e6e0be4f614fd4a55e"
+    },
+    {
+      "title": "快速入口",
+      "slug": "ag1cqg7swkgfkw7n",
+      "md_file": "docs/009-L3-快速入口-ag1cqg7swkgfkw7n.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ag1cqg7swkgfkw7n",
+      "old_title": "快速入口",
+      "old_level": 3,
+      "level": 2,
+      "old_word_count": 76,
+      "word_count": 76,
+      "body_changed": false,
+      "readable_content_changed": false,
+      "metadata_changed": true,
+      "old_sha256": "a3550d6b27075049d2db9b749f3a5bd179fc35b060b5a83faec5934e1eef711e",
+      "new_sha256": "a3550d6b27075049d2db9b749f3a5bd179fc35b060b5a83faec5934e1eef711e"
+    },
+    {
+      "title": "架构总览",
+      "slug": "ywv5hhdu3tnzimhc",
+      "md_file": "docs/011-L3-架构总览-ywv5hhdu3tnzimhc.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ywv5hhdu3tnzimhc",
+      "old_title": "架构总览",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 1386,
+      "word_count": 1384,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "acca9a32b9bcdb6f392b8562cf293234abdcab6b054da25edb68a2df807fd33e",
+      "new_sha256": "86422858d8fc1a0a67de101d1247d8b590d2dfdf5b2ed44f8a83adc33589d8c9"
+    },
+    {
+      "title": "AGI项目的真实RAG评测",
+      "slug": "kg90qoh7vm8o79bg",
+      "md_file": "docs/017-L4-AGI项目的真实RAG评测-kg90qoh7vm8o79bg.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kg90qoh7vm8o79bg",
+      "old_title": "AGI项目的真实RAG评测",
+      "old_level": 4,
+      "level": 4,
+      "old_word_count": 1166,
+      "word_count": 1167,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "60b5c2edeaf8440ff0f8df89bd374de911c0f2ddad4b4aac894e2e465568db39",
+      "new_sha256": "24c03eef2085867e441e2866ff2771662b1c0ea49adb7b3e3842ad8579dfec5d"
+    },
+    {
+      "title": "mem0 🆚 viking",
+      "slug": "uy509v64cse72mgk",
+      "md_file": "docs/029-L4-mem0 🆚 viking-uy509v64cse72mgk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/uy509v64cse72mgk",
+      "old_title": "mem0 🆚 viking",
+      "old_level": 4,
+      "level": 4,
+      "old_word_count": 1349,
+      "word_count": 1349,
+      "body_changed": true,
+      "readable_content_changed": false,
+      "metadata_changed": false,
+      "old_sha256": "7b71429f970b611c9a12113d32f0c25c8404de5dab5c0608ee826fb91324369e",
+      "new_sha256": "e580f3a764f5a59a3dfb6d29cc368c6e6c0ca361a760906aab5a305f3b05cfd1"
+    },
+    {
+      "title": "Harness工程",
+      "slug": "eem938c7rw31md15",
+      "md_file": "docs/030-L3-Harness工程-eem938c7rw31md15.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/eem938c7rw31md15",
+      "old_title": "Harness工程",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 1953,
+      "word_count": 1953,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": false,
+      "old_sha256": "4eb8024bdbf31291e38c7c5eb4efc4b826c07558c50782ad6c87a85a25c243ba",
+      "new_sha256": "6f76c657be33185d9cbbbf9e226b7c83000e6a7be52f85131ca85180f83ec2a2"
+    },
+    {
+      "title": "DAG 观测与大数据性能诊断",
+      "slug": "um9srmsvawa6kz1f",
+      "md_file": "docs/036-L3-DAG 观测与大数据性能诊断-um9srmsvawa6kz1f.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/um9srmsvawa6kz1f",
+      "old_title": "DAG 观测与大数据性能诊断",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 0,
+      "word_count": 1103,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "6a927a5affc841b55eeaf4ae4e1db7183b42aa8e37c1f21c7c3c430be1ea1c65"
+    },
+    {
+      "title": "面向长任务的 TUI Agent 交互设计",
+      "slug": "dv629gd47lypayfe",
+      "md_file": "docs/037-L3-面向长任务的 TUI Agent 交互设计-dv629gd47lypayfe.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/dv629gd47lypayfe",
+      "old_title": "面向长任务的 TUI Agent 交互设计",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 0,
+      "word_count": 1142,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "4bc11a54fe9f5923b536f0ba29e795a6a1b5d5fb0dbefd8c4cdd9fb149f4acde"
+    },
+    {
+      "title": "Spark 执行与任务生命周期管理",
+      "slug": "gof2573d8ntm48wy",
+      "md_file": "docs/038-L3-Spark 执行与任务生命周期管理-gof2573d8ntm48wy.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/gof2573d8ntm48wy",
+      "old_title": "Spark 执行与任务生命周期管理",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 0,
+      "word_count": 1206,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "dc481ddbb0ba33229fd8028d12b4989070fea0abb3a57e95f76e974ccf1188f6"
+    },
+    {
+      "title": "可组合 Skill 体系：把数据工程能力模块化",
+      "slug": "vrnx8ptkp872slft",
+      "md_file": "docs/039-L3-可组合 Skill 体系：把数据工程能力模块化-vrnx8ptkp872slft.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/vrnx8ptkp872slft",
+      "old_title": "可组合 Skill 体系：把数据工程能力模块化",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 0,
+      "word_count": 1324,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "0c861ce55cb2945ceef9c34c3fb1eddba34a794d32235b0990748ecbfb1eeb8a"
+    },
+    {
+      "title": "自然语言到 Spark Job 的端到端执行链路",
+      "slug": "iwa0xtwahko8ripf",
+      "md_file": "docs/040-L3-自然语言到 Spark Job 的端到端执行链路-iwa0xtwahko8ripf.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/iwa0xtwahko8ripf",
+      "old_title": "自然语言到 Spark Job 的端到端执行链路",
+      "old_level": 3,
+      "level": 3,
+      "old_word_count": 0,
+      "word_count": 2118,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "e777c37c49d31d2147348b3fbdb8fe7f9b705c24a39ee7e595fcb48e7abbb9a5"
+    },
+    {
+      "title": "SKILL相关",
+      "slug": "yo0mgtyg7x86ypf1",
+      "md_file": "docs/047-L1-skill相关-yo0mgtyg7x86ypf1.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/yo0mgtyg7x86ypf1",
+      "old_title": "skill相关",
+      "old_level": 1,
+      "level": 1,
+      "old_word_count": 0,
+      "word_count": 0,
+      "body_changed": false,
+      "readable_content_changed": false,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "title": "模型相关",
+      "slug": "klazf5ghg22ubca6",
+      "md_file": "docs/056-L1-模型底层-klazf5ghg22ubca6.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/klazf5ghg22ubca6",
+      "old_title": "模型底层",
+      "old_level": 1,
+      "level": 1,
+      "old_word_count": 0,
+      "word_count": 0,
+      "body_changed": false,
+      "readable_content_changed": false,
+      "metadata_changed": true,
+      "old_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "title": "你真的了解SKILL吗？",
+      "slug": "uwghi79ul801gn2w",
+      "md_file": "docs/069-L1-你真的了解SKILL吗？-uwghi79ul801gn2w.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/uwghi79ul801gn2w",
+      "old_title": "你真的了解SKILL吗？",
+      "old_level": 1,
+      "level": 1,
+      "old_word_count": 63,
+      "word_count": 73,
+      "body_changed": true,
+      "readable_content_changed": true,
+      "metadata_changed": true,
+      "old_sha256": "d58013388f4f033834fa6660d4d43ad99f151e2bab6c032a5b2e9c5d6ab930f2",
+      "new_sha256": "4cbd08e4b396639402de055542da4cf82a6596a3ec1b711e4c0bdb380d1f253c"
+    },
+    {
+      "title": "CoT与ReAct",
+      "slug": "syui4pdqhx72ugen",
+      "md_file": "docs/073-L2-CoT与ReAct-syui4pdqhx72ugen.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/syui4pdqhx72ugen",
+      "old_title": "CoT与ReAct",
+      "old_level": 2,
+      "level": 1,
+      "old_word_count": 945,
+      "word_count": 945,
+      "body_changed": false,
+      "readable_content_changed": false,
+      "metadata_changed": true,
+      "old_sha256": "a44cac5ec812824a8fe7a7bea40dbf35bd1c5b3a50999554aec1b5bdac9aeb52",
+      "new_sha256": "a44cac5ec812824a8fe7a7bea40dbf35bd1c5b3a50999554aec1b5bdac9aeb52"
+    }
+  ],
+  "unchanged": [
+    {
+      "title": "知识库使用说明",
+      "slug": "kic4okgtcuabsrih",
+      "md_file": "docs/001-L0-知识库使用说明-kic4okgtcuabsrih.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kic4okgtcuabsrih"
+    },
+    {
+      "title": "社区介绍",
+      "slug": "yykppvvsrmfpfd1x",
+      "md_file": "docs/002-L0-社区介绍-yykppvvsrmfpfd1x.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/yykppvvsrmfpfd1x"
+    },
+    {
+      "title": "简历写法",
+      "slug": "rr6fpxt7qks1uzmx",
+      "md_file": "docs/003-L2-简历写法-rr6fpxt7qks1uzmx.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/rr6fpxt7qks1uzmx"
+    },
+    {
+      "title": "问答汇总",
+      "slug": "ibidrgqvw7mz0i9c",
+      "md_file": "docs/004-L2-问答汇总-ibidrgqvw7mz0i9c.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ibidrgqvw7mz0i9c"
+    },
+    {
+      "title": "长期记忆和用户偏好的内容具体区别",
+      "slug": "oyzgzih31w4ep9x2",
+      "md_file": "docs/005-L3-长期记忆和用户偏好的内容具体区别-oyzgzih31w4ep9x2.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/oyzgzih31w4ep9x2"
+    },
+    {
+      "title": "为什么项目用的rag是向量检索➕bm25+知识图谱，但是测评里却只测了向量和bm25和这两者混合？",
+      "slug": "ld3og930iky8d30u",
+      "md_file": "docs/006-L3-为什么项目用的rag是向量检索➕bm25+知识图谱，但是测评里却只测了向量和bm25和这两者混合？-ld3og930iky8d30u.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ld3og930iky8d30u"
+    },
+    {
+      "title": "项目面经",
+      "slug": "gt6xxfae0mg66hm3",
+      "md_file": "docs/008-L2-项目面经-gt6xxfae0mg66hm3.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/gt6xxfae0mg66hm3"
+    },
+    {
+      "title": "面试🚀计划",
+      "slug": "sgf4kv8ya93kb7ah",
+      "md_file": "docs/010-L2-面试🚀计划-sgf4kv8ya93kb7ah.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/sgf4kv8ya93kb7ah"
+    },
+    {
+      "title": "RAG",
+      "slug": "gbkmp56a6ki3z383",
+      "md_file": "docs/012-L3-RAG-gbkmp56a6ki3z383.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/gbkmp56a6ki3z383"
+    },
+    {
+      "title": "PDF 处理流程说明",
+      "slug": "hhr0liyp3tqmkokx",
+      "md_file": "docs/013-L4-PDF 处理流程说明-hhr0liyp3tqmkokx.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/hhr0liyp3tqmkokx"
+    },
+    {
+      "title": "RAG 问题检验",
+      "slug": "nbuxu8n7inw3wpnf",
+      "md_file": "docs/014-L4-RAG 问题检验-nbuxu8n7inw3wpnf.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/nbuxu8n7inw3wpnf"
+    },
+    {
+      "title": "RAG模块详细讲解",
+      "slug": "xneuz8npio5a9nw5",
+      "md_file": "docs/015-L4-RAG模块详细讲解-xneuz8npio5a9nw5.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/xneuz8npio5a9nw5"
+    },
+    {
+      "title": "怎么评测RAG效果",
+      "slug": "gqkcyldld0c7afly",
+      "md_file": "docs/016-L4-怎么评测RAG效果-gqkcyldld0c7afly.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/gqkcyldld0c7afly"
+    },
+    {
+      "title": "为什么rag需要知识图谱",
+      "slug": "dfwih2ge2rp3ynp9",
+      "md_file": "docs/018-L4-为什么rag需要知识图谱-dfwih2ge2rp3ynp9.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/dfwih2ge2rp3ynp9"
+    },
+    {
+      "title": "Using Tool",
+      "slug": "kztaldw0d8n4ef3k",
+      "md_file": "docs/019-L3-Using Tool-kztaldw0d8n4ef3k.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kztaldw0d8n4ef3k"
+    },
+    {
+      "title": "Saber工具调用全流程",
+      "slug": "pwceramosngpwuww",
+      "md_file": "docs/020-L4-Saber工具调用全流程-pwceramosngpwuww.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/pwceramosngpwuww"
+    },
+    {
+      "title": "ReAct处理",
+      "slug": "wd641plhk7615sz0",
+      "md_file": "docs/021-L3-ReAct处理-wd641plhk7615sz0.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/wd641plhk7615sz0"
+    },
+    {
+      "title": "从 Static DAG 到 Plan-and-ReAct",
+      "slug": "ltm0t3337f5k0glu",
+      "md_file": "docs/022-L4-从 Static DAG 到 Plan-and-ReAct-ltm0t3337f5k0glu.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ltm0t3337f5k0glu"
+    },
+    {
+      "title": "任务 DAG 设计",
+      "slug": "lrfvxx45p6qm1g9p",
+      "md_file": "docs/023-L4-任务 DAG 设计-lrfvxx45p6qm1g9p.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/lrfvxx45p6qm1g9p"
+    },
+    {
+      "title": "动态图ReAct和串行链式ReAct",
+      "slug": "rdbcbr1vy2oaenr6",
+      "md_file": "docs/024-L4-动态图ReAct和串行链式ReAct-rdbcbr1vy2oaenr6.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/rdbcbr1vy2oaenr6"
+    },
+    {
+      "title": "记忆系统（会话管理）！！！",
+      "slug": "wrf2f1sgen39slzh",
+      "md_file": "docs/025-L3-记忆系统（会话管理）！！！-wrf2f1sgen39slzh.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/wrf2f1sgen39slzh"
+    },
+    {
+      "title": "记忆系统详细介绍",
+      "slug": "qwsuulxsongrhiak",
+      "md_file": "docs/026-L4-记忆系统详细介绍-qwsuulxsongrhiak.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/qwsuulxsongrhiak"
+    },
+    {
+      "title": "如何组织记忆上下文",
+      "slug": "sng79ezhasg971re",
+      "md_file": "docs/027-L4-如何组织记忆上下文-sng79ezhasg971re.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/sng79ezhasg971re"
+    },
+    {
+      "title": "怎么评测记忆系统",
+      "slug": "lwvzhyiowohhg2z0",
+      "md_file": "docs/028-L4-怎么评测记忆系统-lwvzhyiowohhg2z0.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/lwvzhyiowohhg2z0"
+    },
+    {
+      "title": "子 Agent 与本地文档库模块",
+      "slug": "ld9xgiguusbeam2g",
+      "md_file": "docs/031-L4-子 Agent 与本地文档库模块-ld9xgiguusbeam2g.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ld9xgiguusbeam2g"
+    },
+    {
+      "title": "AGI-Gilgamesh",
+      "slug": "nol8n78c6g836dgg",
+      "md_file": "docs/032-L1-AGI-Gilgamesh-nol8n78c6g836dgg.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/nol8n78c6g836dgg"
+    },
+    {
+      "title": "Spark 快速入门",
+      "slug": "fgrxr4yg4rfn1q65",
+      "md_file": "docs/033-L2-Spark 快速入门-fgrxr4yg4rfn1q65.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/fgrxr4yg4rfn1q65"
+    },
+    {
+      "title": "项目初衷",
+      "slug": "ucseuisuyn7eg7w8",
+      "md_file": "docs/034-L2-项目初衷-ucseuisuyn7eg7w8.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ucseuisuyn7eg7w8"
+    },
+    {
+      "title": "面试计划",
+      "slug": "kmeez3o5bf1a9wy0",
+      "md_file": "docs/035-L2-面试计划-kmeez3o5bf1a9wy0.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kmeez3o5bf1a9wy0"
+    },
+    {
+      "title": "AI赋能",
+      "slug": "fw9i5bslx71gkc8a",
+      "md_file": "docs/041-L0-AI赋能-fw9i5bslx71gkc8a.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/fw9i5bslx71gkc8a"
+    },
+    {
+      "title": "学习路线",
+      "slug": "vzat76x8ozqa553b",
+      "md_file": "docs/042-L1-学习路线-vzat76x8ozqa553b.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/vzat76x8ozqa553b"
+    },
+    {
+      "title": "🐟的Agent开发学习路线",
+      "slug": "ygcuieb0br2lt4wp",
+      "md_file": "docs/043-L2-🐟的Agent开发学习路线-ygcuieb0br2lt4wp.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ygcuieb0br2lt4wp"
+    },
+    {
+      "title": "Agent开发-详细路线",
+      "slug": "zas5ihcgmtxmcyx7",
+      "md_file": "docs/044-L2-Agent开发-详细路线-zas5ihcgmtxmcyx7.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/zas5ihcgmtxmcyx7"
+    },
+    {
+      "title": "MCP与工具调用相关",
+      "slug": "kuokk278q0sflepu",
+      "md_file": "docs/045-L1-MCP与工具调用相关-kuokk278q0sflepu.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kuokk278q0sflepu"
+    },
+    {
+      "title": "聊聊MCP",
+      "slug": "kos09ra4r7uh4tse",
+      "md_file": "docs/046-L2-聊聊MCP-kos09ra4r7uh4tse.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kos09ra4r7uh4tse"
+    },
+    {
+      "title": "实习生项目架构导读skill",
+      "slug": "ak2y19wk7nnxyqgq",
+      "md_file": "docs/048-L2-实习生项目架构导读skill-ak2y19wk7nnxyqgq.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ak2y19wk7nnxyqgq"
+    },
+    {
+      "title": "RAG相关",
+      "slug": "egxi7yh4mw0si4eu",
+      "md_file": "docs/049-L1-RAG相关-egxi7yh4mw0si4eu.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/egxi7yh4mw0si4eu"
+    },
+    {
+      "title": "RAG—动态TOP K算法",
+      "slug": "uhc2v0e4odpf8gmh",
+      "md_file": "docs/050-L2-RAG—动态TOP K算法-uhc2v0e4odpf8gmh.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/uhc2v0e4odpf8gmh"
+    },
+    {
+      "title": "多路召回设计",
+      "slug": "sxcaubb0i35oc0bt",
+      "md_file": "docs/051-L2-多路召回设计-sxcaubb0i35oc0bt.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/sxcaubb0i35oc0bt"
+    },
+    {
+      "title": "RAG基础结构",
+      "slug": "ndhqqg31gncdhp40",
+      "md_file": "docs/052-L2-RAG基础结构-ndhqqg31gncdhp40.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ndhqqg31gncdhp40"
+    },
+    {
+      "title": "RAG基础概念",
+      "slug": "nb06398h2sok5gqk",
+      "md_file": "docs/053-L2-RAG基础概念-nb06398h2sok5gqk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/nb06398h2sok5gqk"
+    },
+    {
+      "title": "父子索引是什么，解决了什么问题",
+      "slug": "iq2q46801rgxqg23",
+      "md_file": "docs/054-L2-父子索引是什么，解决了什么问题-iq2q46801rgxqg23.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/iq2q46801rgxqg23"
+    },
+    {
+      "title": "工业级的 RAG 优化选型",
+      "slug": "msmg7ofigme68bf6",
+      "md_file": "docs/055-L2-工业级的 RAG 优化选型-msmg7ofigme68bf6.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/msmg7ofigme68bf6"
+    },
+    {
+      "title": "模型参数相关",
+      "slug": "kw7p0grsgg1z52du",
+      "md_file": "docs/057-L2-模型参数相关-kw7p0grsgg1z52du.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kw7p0grsgg1z52du"
+    },
+    {
+      "title": "LoRA微调原理",
+      "slug": "rc6zat3pgtlilx9w",
+      "md_file": "docs/058-L2-LoRA微调原理-rc6zat3pgtlilx9w.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/rc6zat3pgtlilx9w"
+    },
+    {
+      "title": "工程设计",
+      "slug": "adwgq7kw0mmmgaxa",
+      "md_file": "docs/059-L1-工程设计-adwgq7kw0mmmgaxa.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/adwgq7kw0mmmgaxa"
+    },
+    {
+      "title": "AgentScope 在沙箱环境中执行内置工具模块设计",
+      "slug": "arm7k2b5m50yw6qp",
+      "md_file": "docs/060-L2-AgentScope 在沙箱环境中执行内置工具模块设计-arm7k2b5m50yw6qp.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/arm7k2b5m50yw6qp"
+    },
+    {
+      "title": "构建 Claude Code 的经验：Prompt Caching 就是一切",
+      "slug": "npw3tixslg0voclw",
+      "md_file": "docs/061-L2-构建 Claude Code 的经验：Prompt Caching 就是一切-npw3tixslg0voclw.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/npw3tixslg0voclw"
+    },
+    {
+      "title": "Claude code的记忆",
+      "slug": "mi2pqqmrfwofaw63",
+      "md_file": "docs/062-L2-Claude code的记忆-mi2pqqmrfwofaw63.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/mi2pqqmrfwofaw63"
+    },
+    {
+      "title": "从构建 Claude Code 中汲取的经验教训：像代理一样思考",
+      "slug": "fy89gc4u7qfd4rb1",
+      "md_file": "docs/063-L2-从构建 Claude Code 中汲取的经验教训：像代理一样思考-fy89gc4u7qfd4rb1.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/fy89gc4u7qfd4rb1"
+    },
+    {
+      "title": "MemGPT——基于操作系统原理的大模型上下文管理策略",
+      "slug": "dfpfh5zn3hx5i3hh",
+      "md_file": "docs/064-L2-MemGPT——基于操作系统原理的大模型上下文管理策略-dfpfh5zn3hx5i3hh.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/dfpfh5zn3hx5i3hh"
+    },
+    {
+      "title": "Mem0架构入门",
+      "slug": "tgp65dvk1unumn3g",
+      "md_file": "docs/065-L2-Mem0架构入门-tgp65dvk1unumn3g.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/tgp65dvk1unumn3g"
+    },
+    {
+      "title": "Claude Code Dynamic Workflow",
+      "slug": "hdgqsd8s9q2paezk",
+      "md_file": "docs/066-L2-Claude Code Dynamic Workflow-hdgqsd8s9q2paezk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/hdgqsd8s9q2paezk"
+    },
+    {
+      "title": "大厂实践",
+      "slug": "giovl1gw5ueccfn0",
+      "md_file": "docs/067-L0-大厂实践-giovl1gw5ueccfn0.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/giovl1gw5ueccfn0"
+    },
+    {
+      "title": "办公智能体的记忆系统评测方案",
+      "slug": "qnl5d0mfsrg3iggm",
+      "md_file": "docs/068-L1-办公智能体的记忆系统评测方案-qnl5d0mfsrg3iggm.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/qnl5d0mfsrg3iggm"
+    },
+    {
+      "title": "Vibe Coding 进阶之路:从氛围编程到工程化实践",
+      "slug": "aggayslwe4nduon6",
+      "md_file": "docs/070-L1-Vibe Coding 进阶之路_从氛围编程到工程化实践-aggayslwe4nduon6.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/aggayslwe4nduon6"
+    },
+    {
+      "title": "🐟总结的agent八股",
+      "slug": "ux10zz73fff1tavr",
+      "md_file": "docs/071-L1-🐟总结的agent八股-ux10zz73fff1tavr.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ux10zz73fff1tavr"
+    },
+    {
+      "title": "AI应用面试题",
+      "slug": "dcu8peko6c2wl9kq",
+      "md_file": "docs/072-L1-AI应用面试题-dcu8peko6c2wl9kq.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/dcu8peko6c2wl9kq"
+    },
+    {
+      "title": "引言",
+      "slug": "geuqync2tzm65f5e",
+      "md_file": "docs/074-L1-引言-geuqync2tzm65f5e.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/geuqync2tzm65f5e"
+    },
+    {
+      "title": "面试技巧沉淀",
+      "slug": "er1lkwae9vku3g1w",
+      "md_file": "docs/075-L1-面试技巧沉淀-er1lkwae9vku3g1w.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/er1lkwae9vku3g1w"
+    },
+    {
+      "title": "影石ai平台系统开发",
+      "slug": "siqv1rfyrvrrrwmv",
+      "md_file": "docs/076-L1-影石ai平台系统开发-siqv1rfyrvrrrwmv.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/siqv1rfyrvrrrwmv"
+    },
+    {
+      "title": "影石1面",
+      "slug": "ng54h0ilia3uegeq",
+      "md_file": "docs/077-L2-影石1面-ng54h0ilia3uegeq.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ng54h0ilia3uegeq"
+    },
+    {
+      "title": "影石2面",
+      "slug": "kpvv6yealfaeog71",
+      "md_file": "docs/078-L2-影石2面-kpvv6yealfaeog71.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kpvv6yealfaeog71"
+    },
+    {
+      "title": "小红书 存储云平台 agent开发",
+      "slug": "xec9a0s2b31ziyqm",
+      "md_file": "docs/079-L1-小红书 存储云平台 agent开发-xec9a0s2b31ziyqm.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/xec9a0s2b31ziyqm"
+    },
+    {
+      "title": "一面",
+      "slug": "qhyc1qxe5cm41qqq",
+      "md_file": "docs/080-L2-一面-qhyc1qxe5cm41qqq.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/qhyc1qxe5cm41qqq"
+    },
+    {
+      "title": "二面",
+      "slug": "op7ig0rm60apimva",
+      "md_file": "docs/081-L2-二面-op7ig0rm60apimva.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/op7ig0rm60apimva"
+    },
+    {
+      "title": "三面",
+      "slug": "nwcbtdolyedbgynd",
+      "md_file": "docs/082-L2-三面-nwcbtdolyedbgynd.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/nwcbtdolyedbgynd"
+    },
+    {
+      "title": "小红书 redshop支付部门 ai应用",
+      "slug": "cwtn9euuylqe3952",
+      "md_file": "docs/083-L1-小红书 redshop支付部门 ai应用-cwtn9euuylqe3952.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/cwtn9euuylqe3952"
+    },
+    {
+      "title": "一面",
+      "slug": "gmwitpeebfpmxwg4",
+      "md_file": "docs/084-L2-一面-gmwitpeebfpmxwg4.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/gmwitpeebfpmxwg4"
+    },
+    {
+      "title": "二面",
+      "slug": "ha3hvkefpaq3g6d8",
+      "md_file": "docs/085-L2-二面-ha3hvkefpaq3g6d8.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ha3hvkefpaq3g6d8"
+    },
+    {
+      "title": "三面",
+      "slug": "uiwyrs59r2w4p5nk",
+      "md_file": "docs/086-L2-三面-uiwyrs59r2w4p5nk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/uiwyrs59r2w4p5nk"
+    },
+    {
+      "title": "字节跳动data部门后端开发（byteintern）",
+      "slug": "kogh7prypvgre1xq",
+      "md_file": "docs/087-L1-字节跳动data部门后端开发（byteintern）-kogh7prypvgre1xq.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/kogh7prypvgre1xq"
+    },
+    {
+      "title": "字节跳动Data后端一面",
+      "slug": "ytnzxxtxd0bggob0",
+      "md_file": "docs/088-L2-字节跳动Data后端一面-ytnzxxtxd0bggob0.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ytnzxxtxd0bggob0"
+    },
+    {
+      "title": "字节跳动Data后端二面",
+      "slug": "dgletr42ulr8yn3a",
+      "md_file": "docs/089-L2-字节跳动Data后端二面-dgletr42ulr8yn3a.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/dgletr42ulr8yn3a"
+    },
+    {
+      "title": "minmax后端一面",
+      "slug": "ibix2og4yrggp3qx",
+      "md_file": "docs/090-L1-minmax后端一面-ibix2og4yrggp3qx.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ibix2og4yrggp3qx"
+    },
+    {
+      "title": "字节跳动 抖音-用户增长",
+      "slug": "pm4i792wsz7ffigm",
+      "md_file": "docs/091-L1-字节跳动 抖音-用户增长-pm4i792wsz7ffigm.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/pm4i792wsz7ffigm"
+    },
+    {
+      "title": "字节国际支付后端一面",
+      "slug": "ek3zygz84tbfalzk",
+      "md_file": "docs/092-L1-字节国际支付后端一面-ek3zygz84tbfalzk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/ek3zygz84tbfalzk"
+    },
+    {
+      "title": "商汤科技 后端研发",
+      "slug": "cxwob9fidzalaaxp",
+      "md_file": "docs/093-L1-商汤科技 后端研发-cxwob9fidzalaaxp.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/cxwob9fidzalaaxp"
+    },
+    {
+      "title": "字节中国交易与广告后端一面",
+      "slug": "vzexomvziqtb2p9h",
+      "md_file": "docs/094-L1-字节中国交易与广告后端一面-vzexomvziqtb2p9h.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/vzexomvziqtb2p9h"
+    },
+    {
+      "title": "百度百家号后端面经",
+      "slug": "rz7hhz4m75gprpab",
+      "md_file": "docs/095-L1-百度百家号后端面经-rz7hhz4m75gprpab.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/rz7hhz4m75gprpab"
+    },
+    {
+      "title": "腾讯应用宝后端面经",
+      "slug": "sa1lg5ieblk268mk",
+      "md_file": "docs/096-L1-腾讯应用宝后端面经-sa1lg5ieblk268mk.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/sa1lg5ieblk268mk"
+    },
+    {
+      "title": "字节Flow后端一面",
+      "slug": "pfhc4pgt8vpl6gzd",
+      "md_file": "docs/097-L1-字节Flow后端一面-pfhc4pgt8vpl6gzd.md",
+      "original_url": "https://www.yuque.com/yuqueyonghu-ng3vtk/agi-saber/pfhc4pgt8vpl6gzd"
+    }
+  ],
+  "unpublished": [
+    {
+      "slug": "gkzi2tgy1cdxd23n",
+      "title": "意图识别模型微调",
+      "previously_present": false
+    },
+    {
+      "slug": "vzat76x8ozqa553b",
+      "title": "学习路线",
+      "previously_present": true
+    },
+    {
+      "slug": "kuokk278q0sflepu",
+      "title": "MCP与工具调用相关",
+      "previously_present": true
+    },
+    {
+      "slug": "yo0mgtyg7x86ypf1",
+      "title": "SKILL相关",
+      "previously_present": true
+    },
+    {
+      "slug": "egxi7yh4mw0si4eu",
+      "title": "RAG相关",
+      "previously_present": true
+    },
+    {
+      "slug": "klazf5ghg22ubca6",
+      "title": "模型相关",
+      "previously_present": true
+    },
+    {
+      "slug": "adwgq7kw0mmmgaxa",
+      "title": "工程设计",
+      "previously_present": true
+    },
+    {
+      "slug": "siqv1rfyrvrrrwmv",
+      "title": "影石ai平台系统开发",
+      "previously_present": true
+    },
+    {
+      "slug": "xec9a0s2b31ziyqm",
+      "title": "小红书 存储云平台 agent开发",
+      "previously_present": true
+    },
+    {
+      "slug": "kogh7prypvgre1xq",
+      "title": "字节跳动data部门后端开发（byteintern）",
+      "previously_present": true
+    }
+  ],
+  "warnings": [
+    {
+      "slug": "sezywfkbx8yglkq0",
+      "title": "AGI- researcher",
+      "type": "source_image_unavailable",
+      "src": "../../ArchitectureDiagram.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_9%2Ctext_5rC45rO954mb6YC8IHZ4K3d5emNhYw%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+      "message": "unknown error"
+    },
+    {
+      "slug": "ygcuieb0br2lt4wp",
+      "title": "🐟的Agent开发学习路线",
+      "type": "source_image_unavailable",
+      "src": "attachment:e62327ff-59fa-43d7-8db1-69914acfbf68:image.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_9%2Ctext_5rC45rO954mb6YC8IHZ4K3d5emNhYw%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+      "message": "unknown error"
+    },
+    {
+      "slug": "ytnzxxtxd0bggob0",
+      "title": "字节跳动Data后端一面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "ytnzxxtxd0bggob0",
+      "title": "字节跳动Data后端一面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    },
+    {
+      "slug": "dgletr42ulr8yn3a",
+      "title": "字节跳动Data后端二面",
+      "type": "card_preserved_as_json",
+      "name": "checkbox"
+    }
+  ],
+  "absent_from_live": [],
+  "write_paths": [
+    "docs/098-L1-AGI- researcher-sezywfkbx8yglkq0.md",
+    "html/098-L1-AGI- researcher-sezywfkbx8yglkq0.html",
+    "docs/099-L2-意图识别模型微调-gkzi2tgy1cdxd23n.md",
+    "html/099-L2-意图识别模型微调-gkzi2tgy1cdxd23n.html",
+    "docs/100-L3-双模型意图路由：面试表达手册-pd888bx42zg32i79.md",
+    "html/100-L3-双模型意图路由：面试表达手册-pd888bx42zg32i79.html",
+    "docs/101-L3-双模型意图识别真实训练记录（2026-07-22）-xo25h2xsd4ig049z.md",
+    "html/101-L3-双模型意图识别真实训练记录（2026-07-22）-xo25h2xsd4ig049z.html",
+    "docs/102-L3-Qwen3-0.6B模型结构与 LoRA微调原理-hy6m7wvkndzpky3f.md",
+    "html/102-L3-Qwen3-0.6B模型结构与 LoRA微调原理-hy6m7wvkndzpky3f.html",
+    "docs/103-L3-BERT结构与原理-efelwy768x5p6tou.md",
+    "html/103-L3-BERT结构与原理-efelwy768x5p6tou.html",
+    "docs/104-L3-BERT与大语言模型做分类任务的区别-bzp9l8c8v3fgraq2.md",
+    "html/104-L3-BERT与大语言模型做分类任务的区别-bzp9l8c8v3fgraq2.html",
+    "docs/105-L2-ToT—思维树消融实验设计-iyc5u14b76cwzuzg.md",
+    "html/105-L2-ToT—思维树消融实验设计-iyc5u14b76cwzuzg.html",
+    "docs/106-L3-竞速机制真的有意义吗？-auwqnqy29bvyhg8h.md",
+    "html/106-L3-竞速机制真的有意义吗？-auwqnqy29bvyhg8h.html",
+    "docs/107-L3-系统提示词问题-xa35kne03cp77y6q.md",
+    "html/107-L3-系统提示词问题-xa35kne03cp77y6q.html",
+    "docs/007-L3-长期记忆多库更改怎么保持一致性-pg97d29hcvrzbrbk.md",
+    "html/007-L3-长期记忆多库更改怎么保持一致性-pg97d29hcvrzbrbk.html",
+    "docs/108-L4-修改前后链路对比-thopyd698ivumi0a.md",
+    "html/108-L4-修改前后链路对比-thopyd698ivumi0a.html",
+    "docs/009-L3-快速入口-ag1cqg7swkgfkw7n.md",
+    "html/009-L3-快速入口-ag1cqg7swkgfkw7n.html",
+    "docs/011-L3-架构总览-ywv5hhdu3tnzimhc.md",
+    "html/011-L3-架构总览-ywv5hhdu3tnzimhc.html",
+    "docs/017-L4-AGI项目的真实RAG评测-kg90qoh7vm8o79bg.md",
+    "html/017-L4-AGI项目的真实RAG评测-kg90qoh7vm8o79bg.html",
+    "docs/029-L4-mem0 🆚 viking-uy509v64cse72mgk.md",
+    "html/029-L4-mem0 🆚 viking-uy509v64cse72mgk.html",
+    "docs/030-L3-Harness工程-eem938c7rw31md15.md",
+    "html/030-L3-Harness工程-eem938c7rw31md15.html",
+    "docs/036-L3-DAG 观测与大数据性能诊断-um9srmsvawa6kz1f.md",
+    "html/036-L3-DAG 观测与大数据性能诊断-um9srmsvawa6kz1f.html",
+    "docs/037-L3-面向长任务的 TUI Agent 交互设计-dv629gd47lypayfe.md",
+    "html/037-L3-面向长任务的 TUI Agent 交互设计-dv629gd47lypayfe.html",
+    "docs/038-L3-Spark 执行与任务生命周期管理-gof2573d8ntm48wy.md",
+    "html/038-L3-Spark 执行与任务生命周期管理-gof2573d8ntm48wy.html",
+    "docs/039-L3-可组合 Skill 体系：把数据工程能力模块化-vrnx8ptkp872slft.md",
+    "html/039-L3-可组合 Skill 体系：把数据工程能力模块化-vrnx8ptkp872slft.html",
+    "docs/040-L3-自然语言到 Spark Job 的端到端执行链路-iwa0xtwahko8ripf.md",
+    "html/040-L3-自然语言到 Spark Job 的端到端执行链路-iwa0xtwahko8ripf.html",
+    "docs/047-L1-skill相关-yo0mgtyg7x86ypf1.md",
+    "html/047-L1-skill相关-yo0mgtyg7x86ypf1.html",
+    "docs/056-L1-模型底层-klazf5ghg22ubca6.md",
+    "html/056-L1-模型底层-klazf5ghg22ubca6.html",
+    "docs/109-L2-Retain CoT-vdpg4hv4seipd542.md",
+    "html/109-L2-Retain CoT-vdpg4hv4seipd542.html",
+    "docs/110-L2-Agent 上下文管理：五种常见错误为什么会让 KV Cache 失效-it7rg1u3fzyu0nc7.md",
+    "html/110-L2-Agent 上下文管理：五种常见错误为什么会让 KV Cache 失效-it7rg1u3fzyu0nc7.html",
+    "docs/111-L1-Saga 模式与状态机的结合：本质、实践与两种形态-dgavrc04z97mmgfd.md",
+    "html/111-L1-Saga 模式与状态机的结合：本质、实践与两种形态-dgavrc04z97mmgfd.html",
+    "docs/069-L1-你真的了解SKILL吗？-uwghi79ul801gn2w.md",
+    "html/069-L1-你真的了解SKILL吗？-uwghi79ul801gn2w.html",
+    "docs/112-L1-Loop Engineering 日常 AI 开发实战指南-qzyg2pmu4letaym2.md",
+    "html/112-L1-Loop Engineering 日常 AI 开发实战指南-qzyg2pmu4letaym2.html",
+    "docs/113-L1-鱼的Agent八股（二）-bbwcizgxsuioqbwd.md",
+    "html/113-L1-鱼的Agent八股（二）-bbwcizgxsuioqbwd.html",
+    "docs/073-L2-CoT与ReAct-syui4pdqhx72ugen.md",
+    "html/073-L2-CoT与ReAct-syui4pdqhx72ugen.html",
+    "docs/114-L0-2027届秋招面经-vwaxy6pgxg35ipos.md",
+    "html/114-L0-2027届秋招面经-vwaxy6pgxg35ipos.html",
+    "docs/115-L1-字节 GMPT 秋招一面-oeh2oidlzgobggrv.md",
+    "html/115-L1-字节 GMPT 秋招一面-oeh2oidlzgobggrv.html",
+    "docs/116-L1-字节 AI 全栈一面-rf0xwf56gaa5o7f1.md",
+    "html/116-L1-字节 AI 全栈一面-rf0xwf56gaa5o7f1.html",
+    "docs/117-L1-快手 AI 全栈开发 秋招二面-qf6lhpi4cuu8c4vv.md",
+    "html/117-L1-快手 AI 全栈开发 秋招二面-qf6lhpi4cuu8c4vv.html",
+    "docs/118-L1-pdd ai agent 二面-eg9dbs7xxcn7lyhy.md",
+    "html/118-L1-pdd ai agent 二面-eg9dbs7xxcn7lyhy.html",
+    "docs/119-L1-pdd ai agent 一面-yapy1eim5gwu4yut.md",
+    "html/119-L1-pdd ai agent 一面-yapy1eim5gwu4yut.html",
+    "docs/120-L1-算秩未来 云原生agent1面-aonro39365zmn097.md",
+    "html/120-L1-算秩未来 云原生agent1面-aonro39365zmn097.html"
+  ],
+  "backup_file": "before_sync_20261008_162515.zip",
+  "backup_sha256": "0e20cf51a136085fe584a0252ef49b9ba59fe886dc89fd0475d5c7c0faabc2eb",
+  "verification": {
+    "index_unique_docs": 120,
+    "all_doc_ids_and_book_ids_matched": true,
+    "all_local_html_match_retrieved_content": true,
+    "all_updated_code_and_diagram_payloads_preserved": true,
+    "unchanged_files_hashes_preserved": true,
+    "backup_entries_verified": 197,
+    "live_catalog_rechecked_unchanged": true
+  },
+  "change_breakdown": {
+    "readable_content": 10,
+    "source_markup_only": 1,
+    "title_or_catalog_metadata_only": 4
+  },
+  "backup_location_note": "更新前 ZIP 备份保留在本地，不包含在此仓库中。"
+}

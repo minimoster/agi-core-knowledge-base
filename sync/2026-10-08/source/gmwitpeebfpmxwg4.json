@@ -1,0 +1,16 @@
+{
+  "id": 276130009,
+  "slug": "gmwitpeebfpmxwg4",
+  "title": "一面",
+  "book_id": 78815357,
+  "format": "lake",
+  "status": 1,
+  "word_count": 267,
+  "created_at": "2026-07-02T08:03:28.000Z",
+  "updated_at": "2026-07-05T07:14:23.000Z",
+  "published_at": "2026-07-05T07:14:23.000Z",
+  "content_updated_at": "2026-07-05T07:14:23.000Z",
+  "content": "<!doctype lake><meta name=\"doc-version\" content=\"1\" /><meta name=\"viewport\" content=\"fixed\" /><meta name=\"typography\" content=\"classic\" /><meta name=\"paragraphSpacing\" content=\"relax\" /><p data-lake-id=\"ub98c0a9c\" id=\"ub98c0a9c\"><span data-lake-id=\"udb2e9b96\" id=\"udb2e9b96\">时间：2026.6.29-下午七点</span></p><p data-lake-id=\"u16415db4\" id=\"u16415db4\"><span data-lake-id=\"u65dd3ef3\" id=\"u65dd3ef3\">一：实习</span></p><p data-lake-id=\"u0af55545\" id=\"u0af55545\"><span data-lake-id=\"u8565b17b\" id=\"u8565b17b\">30min</span></p><p data-lake-id=\"u5441c9e0\" id=\"u5441c9e0\"><span data-lake-id=\"u600736a8\" id=\"u600736a8\">二：saber</span></p><p data-lake-id=\"ufd064e79\" id=\"ufd064e79\"><span data-lake-id=\"u30094ade\" id=\"u30094ade\">1:为什么要设计记忆系统</span></p><p data-lake-id=\"u5c3f3489\" id=\"u5c3f3489\"><span data-lake-id=\"ua0711e77\" id=\"ua0711e77\">2:你认为现在业界有公认的答案吗？对于agent的记忆来说</span></p><p data-lake-id=\"u993592e3\" id=\"u993592e3\"><span data-lake-id=\"u413efb19\" id=\"u413efb19\">3:工具失败的时候，你做了什么措施？</span></p><p data-lake-id=\"u37129f14\" id=\"u37129f14\"><span data-lake-id=\"u8139ec5c\" id=\"u8139ec5c\">4:为什么你觉得这些措施能解决工具失败的问题？用户体验你考虑过吗？</span></p><p data-lake-id=\"u1248d82d\" id=\"u1248d82d\"><span data-lake-id=\"ud5816975\" id=\"ud5816975\">5:记忆触发组装上下文的时候，你为什么这么做？</span></p><p data-lake-id=\"uf3ba887d\" id=\"uf3ba887d\"><span data-lake-id=\"u4b1b2d74\" id=\"u4b1b2d74\">6:你说能显著解决token消耗，这个你怎么测的？</span></p><p data-lake-id=\"uc1e2cdcd\" id=\"uc1e2cdcd\"><span data-lake-id=\"u3575df42\" id=\"u3575df42\">7:mem0适合实时高频写入的智能体场景吗？为什么？</span></p><p data-lake-id=\"uf7785dff\" id=\"uf7785dff\"><span data-lake-id=\"u5d622c16\" id=\"u5d622c16\">8:你说小微就是实时高频写入的场景，那你觉得小微的记忆系统应该怎么设计？</span></p><p data-lake-id=\"u8a3027c2\" id=\"u8a3027c2\"><span data-lake-id=\"ua0ba6797\" id=\"ua0ba6797\">三：八股</span></p><p data-lake-id=\"u2703aa72\" id=\"u2703aa72\"><span data-lake-id=\"u7ad0f8c4\" id=\"u7ad0f8c4\">1：rpc框架你学过吗？跟http协议有什么不同？</span></p><p data-lake-id=\"ub6f42b23\" id=\"ub6f42b23\"><span data-lake-id=\"u2dee3e73\" id=\"u2dee3e73\">2:什么时候用rpc，什么时候适合http？</span></p><p data-lake-id=\"ueb940645\" id=\"ueb940645\"><span data-lake-id=\"uf503b4d5\" id=\"uf503b4d5\">3:同城双活和异地多活分别为了解决什么问题？</span></p><p data-lake-id=\"ufca180db\" id=\"ufca180db\"><span data-lake-id=\"u83f13cf7\" id=\"u83f13cf7\">四：手撕</span></p><p data-lake-id=\"u645e63b9\" id=\"u645e63b9\"><span data-lake-id=\"u0d3f4104\" id=\"u0d3f4104\">链表相加</span></p><p data-lake-id=\"u2f0789ee\" id=\"u2f0789ee\"><span data-lake-id=\"u2c6d03b5\" id=\"u2c6d03b5\">​</span><br></p><p data-lake-id=\"uf10f14e7\" id=\"uf10f14e7\"><span data-lake-id=\"u5d1d54f1\" id=\"u5d1d54f1\">​</span><br></p>",
+  "empty_unpublished": false,
+  "retrieved_at": "2026-10-08T16:25:13+08:00"
+}
