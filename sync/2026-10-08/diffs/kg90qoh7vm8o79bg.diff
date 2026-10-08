@@ -1,0 +1,35 @@
+--- before/kg90qoh7vm8o79bg.md
++++ after/kg90qoh7vm8o79bg.md
+@@ -51,21 +51,7 @@
+ 
+ 
+ 
+-测试chunk：
+-
+-[computer.json](https://www.yuque.com/attachments/yuque/0/2026/json/62181444/1781070128089-df7b062e-7a5f-4b74-a580-27e9db880692.json)
+-
+-
+-
+-测试集：
+-
+-[golden.json](https://www.yuque.com/attachments/yuque/0/2026/json/62181444/1781070222172-3f70990d-24f0-4dfc-86f4-0bde97cb8ea1.json)
+-
+-
+-
+ 把这10000个真实chunk分别存入es和milvs里，开始评测
+-
+-
+ 
+ 
+ 
+@@ -95,6 +81,10 @@
+ | --- | --- |
+ | question | 用户问题 |
+ | ground_truth | 正确 chunk id |
++
++
++
++测试chunk和评测集以及脚本：[https://github.com/AGI-Core/AGI-saber/tree/main/test](https://github.com/AGI-Core/AGI-saber/tree/main/test)
+ 
+ 
+ 
