@@ -1,0 +1,15 @@
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.venv/
+node_modules/
+Thumbs.db
+.DS_Store
+
+# Project source checkouts and local restore archives are maintained separately.
+projects/
+*.zip
